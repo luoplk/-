@@ -23,7 +23,7 @@ namespace WindowsFormsApplication2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = userControl11.RotateSpd.ToString();
+
         }
     }
 }
